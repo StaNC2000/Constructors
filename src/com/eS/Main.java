@@ -1,6 +1,6 @@
 package com.eS;
 
-public class Constructors {
+public class Main {
 
     public static void main(String[] args) {
 	// write your code here
